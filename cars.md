@@ -10,7 +10,7 @@
 | Targa                  | CHAR(7)      | NOT NULL, UNIQUE                |
 | Chilometraggio         | FLOAT(6,3)   | NOT NULL                        |
 | Carburante             | VARCHAR(20)  | NOT NULL                        |
-| Tipo di cambio         | VARCHAR(20)  | NOT NULL                        |
-| Classe di emissioni    | VARCHAR(20)  | NOT NULL                        |
-| Precedenti proprietari | TINYINT      | NOT NULL                        |
+| Tipo_di_cambio         | VARCHAR(20)  | NOT NULL                        |
+| Classe_di_emissioni    | VARCHAR(20)  | NOT NULL                        |
+| Precedenti_proprietari | TINYINT      | NOT NULL                        |
 | Prezzo                 | FLOAT(6,3)   | NOT NULL                        |
